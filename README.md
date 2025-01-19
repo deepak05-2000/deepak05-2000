@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Deepak Bijalwan 👋
 
-<!--
-**deepak05-2000/deepak05-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I’m currently working at Infosys as a **Specialist Programmer**.
+- 🌱 I’m learning advanced system design and competitive programming.
+- 💬 Ask me about **Java, Spring Boot, and low-level design**.
 
-Here are some ideas to get you started:
+## 📊 Coding Profiles
+- **LeetCode**: [Profile](https://leetcode.com/u/Deepak2000/)
+- **Codeforces**: [Profile](https://codeforces.com/profile/bijalwan_2000)
+- **GitHub Stats**:
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak05-2000&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
+- **TCS Codevita Season 10 World Finalist**: Ranked among the top 30 globally.
+- **LeetCode Knight**: Top 4% globally with a max rating of 1926.
+- **Specialist on Codeforces**: Max rating 1446.
+
+## 📫 Contact Me
+- **Email**: [deepak2000bij@gmail.com](mailto:deepak2000bij@gmail.com)
+- **LinkedIn**: [Deepak Bijalwan](https://www.linkedin.com/in/deepak-bijalwan-76865a198/)
